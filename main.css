@@ -14,7 +14,6 @@ a:hover, :active {
     columns: red;
 }
 
-
 table, tr, th, td, caption {
     border: 1px solid #eee;
     font-family: 'Courier New', Courier, monospace;

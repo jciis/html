@@ -8,6 +8,4 @@ function square(number) {
     
 }
 
-
-
 console.log(square(2));
